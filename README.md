@@ -1,5 +1,6 @@
-# From Text to Segmentation: A Text-Driven Approach for Weakly Supervised Few-Shot Segmentation
-This is the implementation of the paper "From Text to Segmentation: A Text-Driven Approach for Weakly Supervised Few-Shot Segmentation". Implemented on Python 3.7 and Pytorch 1.13.1.
+# Weakly Supervised Few-Shot Segmentation Through Textual Prompt
+# Weakly Supervised Few-Shot and Zero-Shot Segmentation via Language Guidance
+This is the implementation of the paper "Weakly Supervised Few-Shot Segmentation Through Textual Prompt". Implemented on Python 3.7 and Pytorch 1.13.1.
 
 ## Requirements and Preparation
 1. torch; torchvision; CLIP; timm; tensorboardX;
